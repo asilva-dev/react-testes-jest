@@ -45,9 +45,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Deploy
 
-O deploy desse projeto foi feito através do Vercel. Se quiser navegar pelo mesmo, clique no link a seguir:
+O deploy desse projeto foi feito através do Vercel. Se quiser ver o site funcionando, clique no link a seguir:
+[Navegue por aqui!](https://sorteio-com-react-e-jest-amanda.vercel.app/)
 
-[Navegue aqui]([https://taiwlind-css-amanda.vercel.app/](https://sorteio-com-react-e-jest-amanda.vercel.app/)
+Obs.: Para o sorteio funcionar, é preciso inserir pelo menos TRÊS nomes!
 
 ## Documentação do Jest
 
