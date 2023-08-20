@@ -9,7 +9,13 @@ Codar com a técnica TDD
 Conhecer diferentes tipos de testes
 Aprender os benefícios dos testes
 
+Testes rodando:
+
 <img width="378" alt="Captura de Tela 2023-08-20 às 13 46 51" src="https://github.com/asilva-dev/react-testes-jest/assets/26863069/616631a5-02c7-4bde-ac6a-3eae73b902ab">
+
+Interface do projeto:
+
+<img width="1241" alt="Captura de Tela 2023-08-20 às 14 04 52" src="https://github.com/asilva-dev/react-testes-jest/assets/26863069/1181682a-7710-46c9-86ed-a8a59722c205">
 
 # Introdução ao Create React App
 
