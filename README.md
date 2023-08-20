@@ -51,4 +51,4 @@ O deploy desse projeto foi feito através do Vercel. Se quiser navegar pelo mesm
 
 ## Documentação do Jest
 
-[Tailwind](https://jestjs.io/pt-BR/)
+[Jest](https://jestjs.io/pt-BR/)
